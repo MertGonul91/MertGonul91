@@ -1,6 +1,6 @@
 # Hi, I’m Mert 👋
 
-I build **Raporio** — a voice-to-structured-report product that turns dictation into clean, reusable output (templates, rules, workflows).
+I build **Raporio**, a voice-to-structured-report product that turns dictation into clean, reusable output (templates, rules, workflows).
 I care about **premium UX**, **fast iteration**, and **reliable infra**.
 
 <!-- Badges / Links -->
@@ -16,7 +16,7 @@ I care about **premium UX**, **fast iteration**, and **reliable infra**.
 - UX-first dashboard + workflow tooling  
 - Scalable backend + production deployment
 
-If you’re working on **voice workflows**, **structured documents**, or **product + engineering** problems — happy to connect.
+If you’re working on **voice workflows**, **structured documents**, or **product + engineering** problems, happy to connect.
 
 ---
 
